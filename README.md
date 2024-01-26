@@ -1,2 +1,3 @@
 # Rima
-Love
+Made With love 
+open the index.html
